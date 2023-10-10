@@ -45,7 +45,7 @@ The Keyestudio trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. 
 
 
 
-# **4x4x4 RGB CUBE**
+# home
 
 ![KS05754x4x4LED-2](./index_img/KS05754x4x4LED-2.jpg)
 
