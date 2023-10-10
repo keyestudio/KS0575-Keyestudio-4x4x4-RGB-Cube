@@ -1,10 +1,9 @@
 
 .. toctree::
    :maxdepth: 5
-   :caption: keyestudio docs
+   :caption: KS0575 Keyestudio 4x4x4 RGB Cube
 
-   README.md
-   docs/keyestudio/index
+   wiki/index.md
 
 
 
