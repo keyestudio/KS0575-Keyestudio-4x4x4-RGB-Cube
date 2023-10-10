@@ -136,11 +136,365 @@ Arduino Official
 
 [https://www.arduino.cc/](https://www.arduino.cc/)
 
+------
+
+## 6.Product Assembling
+
+![KS05754x4x4LED-1](./index_img/KS05754x4x4LED-1.jpg)
+
+------
+
+### Step 1
+
+#### 1.1 Required Components
+
+![su7](./index_img/su7.png)
+
+------
+#### 1.2 
+
+There are four holes on the main control board for connecting M3 screws and copper pillars. 
+
+![img](./index_img/1.png)
+
+![2-1](./index_img/2-1.jpg)
+
+------
+#### 1.3
+
+![img](./index_img/2.png)
+
+![3](./index_img/3.png)
+
+------
+### Step 2
+
+#### 2.1 Required Components
+
+![su6](./index_img/su6.png)
+
+------
+#### 2.2 
+
+Please pay attention to the direction of the acrylic board. Align the arrowhead to the USB side, as follows: 
+
+![5](./index_img/5.jpg)
+
+Fix the board with four M3 screws. 
+
+![4](./index_img/4.png)
+
+![6](./index_img/6.jpg)
+
+------
+
+#### 2.3
+
+![7](./index_img/7.png)
+
+![8](./index_img/8.jpg)
+
+------
+
+
+
+### Step 3
+
+------
+
+#### 3.1 **Required Components**
+
+![su5](./index_img/su5.png)
+
+------
+
+#### 3.2 
+
+Plug the little bumps into the square holes on Acrylic Board B: 
+
+![2023-09-18_173223](./index_img/2023-09-18_173223.png)
+
+![918151238](./index_img/918151238.jpg)
+
+------
+
+#### 3.3
+
+![2023-09-18_175053](./index_img/2023-09-18_175053.png)
+
+------
+
+#### 3.4
+
+![2023-09-19_082336](./index_img/2023-09-19_082336.png)
+
+------
+
+#### 3.5 
+
+Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
+
+![918151428](./index_img/918151428.jpg)
+
+------
+
+#### 3.6
+
+![2023-09-19_083607](./index_img/2023-09-19_083607.png)
+
+![anz1](./index_img/anz1.jpg)
+
+------
+### Step 4
+
+#### 4.1 Required Components
+
+![su4](./index_img/su4.png)
+
+------
+
+#### 4.2
+
+![2023-09-19_100940](./index_img/2023-09-19_100940.png)
+
+------
+
+#### 4.3
+
+![2023-09-19_101351](./index_img/2023-09-19_101351.png)
+
+Mount the Acrylic Board C: 
+
+![az(7)](./index_img/az(7).jpg)
+
 
 
 ------
 
-## 6.Tutorial
+#### 4.4
+
+![2023-09-18_175053](./index_img/2023-09-18_175053.png)
+
+------
+
+#### 4.5
+
+![2023-09-19_102336](./index_img/2023-09-19_102336.png)
+
+------
+
+#### 4.6
+
+![2023-09-19_102704](./index_img/2023-09-19_102704.png)
+
+------
+
+#### 4.7 
+
+Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
+
+![az(8)](./index_img/az(8).jpg)
+
+------
+
+#### 4.8 
+
+Use screws and nuts to fix the Acrylic Board B and C. 
+
+![2023-09-18_175053](./index_img/2023-09-18_175053.png)
+
+![2023-09-19_103551](./index_img/2023-09-19_103551.png)
+
+![2023-09-19_104157](./index_img/2023-09-19_104157.png)
+
+Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
+
+![az(9)](./index_img/az(9).jpg)
+
+![az(6)](./index_img/az(6)-1695091470175-14.jpg)
+
+------
+
+
+
+### Step 5
+
+------
+
+#### 5.1 **Required Components**
+
+![su3](./index_img/su3.png)
+
+------
+
+#### 5.2
+
+![2023-09-19_104844](./index_img/2023-09-19_104844.png)
+
+![2023-09-19_105343](./index_img/2023-09-19_105343.png)
+
+Moung the Acrylic Board D. 
+
+![az(10)](./index_img/az(10).jpg)
+
+------
+
+#### 5.3
+
+![2023-09-18_175053](./index_img/2023-09-18_175053.png)
+
+------
+
+#### 5.4
+
+![2023-09-19_110822](./index_img/2023-09-19_110822.png)
+
+![2023-09-19_111127](./index_img/2023-09-19_111127.png)
+
+------
+
+#### 5.5 
+
+Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
+
+![az(11)](./index_img/az(11).jpg)
+
+------
+
+#### 5.6 
+
+Use screws and nuts to fix the Acrylic Board C and D. 
+
+![2023-09-18_175053](./index_img/2023-09-18_175053.png)
+
+![2023-09-19_111714](./index_img/2023-09-19_111714.png)
+
+![2023-09-19_112010](./index_img/2023-09-19_112010.png)
+
+------
+
+#### 5.7
+
+![az(13)](./index_img/az(13).jpg)
+
+![az(17)](./index_img/az(17).jpg)
+
+------
+### Step 6
+
+#### 6.1 Required Components
+
+![su2](./index_img/su2.png)
+
+------
+
+#### 6.2
+
+![2023-09-19_113914](./index_img/2023-09-19_113914.png)
+
+![2023-09-19_114348](./index_img/2023-09-19_114348.png)
+
+编号A的亚克力对其，底部亚克力板的编号A
+
+![az(14)](./index_img/az(14).jpg)
+
+------
+
+#### 6.3
+
+![2023-09-18_175053](./index_img/2023-09-18_175053.png)
+
+------
+
+#### 6.4 
+
+Use screws and nuts to fix the Acrylic Board A and B. 
+
+![2023-09-19_114858](./index_img/2023-09-19_114858.png)
+
+![2023-09-19_115139](./index_img/2023-09-19_115139.png)
+
+![az(15)](./index_img/az(15).jpg)
+
+------
+
+#### 6.5 
+
+Use screws and nuts to fix the Acrylic Board A and D.
+
+![2023-09-19_115655](./index_img/2023-09-19_115655.png)
+
+![2023-09-19_120052](./index_img/2023-09-19_120052.png)
+
+------
+
+#### 6.6
+
+![az(1)](./index_img/az(1).jpg)
+
+------
+
+### Step 7
+
+#### 7.1 Required Components
+
+![su1](./index_img/su1.png)
+
+------
+
+#### 7.2 
+
+Please align the holes for screws when installing. 
+
+![2023-09-19_131904](./index_img/2023-09-19_131904.png)
+
+![az(2)](./index_img/az(2).jpg)
+
+
+
+------
+
+#### 7.3
+
+![2023-09-19_132733](./index_img/2023-09-19_132733.png)
+
+![az(3)](./index_img/az(3).jpg)
+
+------
+
+#### 7.4
+
+![2023-09-18_175053](./index_img/2023-09-18_175053.png)
+
+------
+
+#### 7.5
+
+![2023-09-19_133519](./index_img/2023-09-19_133519.png)
+
+![2023-09-19_133753](./index_img/2023-09-19_133753.png)
+
+------
+
+#### 7.6
+
+![az(4)](./index_img/az(4).jpg)
+
+![az(5)](./index_img/az(5).jpg)
+
+------
+
+###  Completed!
+
+![anz2](./index_img/anz2.jpg)
+
+------
+
+------
+
+------
+
+## 7.Tutorial
 
 [Arduino Tutorial](./Arduino/arduino.md)
 

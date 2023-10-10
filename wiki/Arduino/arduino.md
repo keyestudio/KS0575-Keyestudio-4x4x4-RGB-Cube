@@ -1,6 +1,6 @@
 # Arduino Tutorial
 
-## 1.Introduction
+## 1.Software Installation
 
 Please refer to: https://arduinoide.readthedocs.io
 
@@ -10,365 +10,9 @@ Please refer to: https://arduinoide.readthedocs.io
 
 
 
-## 2.Product Assembling
+## 2.Projects
 
-![KS05754x4x4LED-1](./arduino_img/KS05754x4x4LED-1.jpg)
-
-------
-
-### Step 1
-
-#### 1.1 Required Components
-
-![su7](./arduino_img/su7.png)
-
-------
-#### 1.2 
-
-There are four holes on the main control board for connecting M3 screws and copper pillars. 
-
-![img](./arduino_img/1.png)
-
-![2-1](./arduino_img/2-1.jpg)
-
-------
-#### 1.3
-
-![img](./arduino_img/2.png)
-
-![3](./arduino_img/3.png)
-
-------
-### Step 2
-
-#### 2.1 Required Components
-
-![su6](./arduino_img/su6.png)
-
-------
-#### 2.2 
-
-Please pay attention to the direction of the acrylic board. Align the arrowhead to the USB side, as follows: 
-
-![5](./arduino_img/5.jpg)
-
-Fix the board with four M3 screws. 
-
-![4](./arduino_img/4.png)
-
-![6](./arduino_img/6.jpg)
-
-------
-
-#### 2.3
-
-![7](./arduino_img/7.png)
-
-![8](./arduino_img/8.jpg)
-
-------
-
-
-
-### Step 3
-
-------
-
-#### 3.1 **Required Components**
-
-![su5](./arduino_img/su5.png)
-
-------
-
-#### 3.2 
-
-Plug the little bumps into the square holes on Acrylic Board B: 
-
-![2023-09-18_173223](./arduino_img/2023-09-18_173223.png)
-
-![918151238](./arduino_img/918151238.jpg)
-
-------
-
-#### 3.3
-
-![2023-09-18_175053](./arduino_img/2023-09-18_175053.png)
-
-------
-
-#### 3.4
-
-![2023-09-19_082336](./arduino_img/2023-09-19_082336.png)
-
-------
-
-#### 3.5 
-
-Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
-
-![918151428](./arduino_img/918151428.jpg)
-
-------
-
-#### 3.6
-
-![2023-09-19_083607](./arduino_img/2023-09-19_083607.png)
-
-![anz1](./arduino_img/anz1.jpg)
-
-------
-### Step 4
-
-#### 4.1 Required Components
-
-![su4](./arduino_img/su4.png)
-
-------
-
-#### 4.2
-
-![2023-09-19_100940](./arduino_img/2023-09-19_100940.png)
-
-------
-
-#### 4.3
-
-![2023-09-19_101351](./arduino_img/2023-09-19_101351.png)
-
-Mount the Acrylic Board C: 
-
-![az(7)](./arduino_img/az(7).jpg)
-
-
-
-------
-
-#### 4.4
-
-![2023-09-18_175053](./arduino_img/2023-09-18_175053.png)
-
-------
-
-#### 4.5
-
-![2023-09-19_102336](./arduino_img/2023-09-19_102336.png)
-
-------
-
-#### 4.6
-
-![2023-09-19_102704](./arduino_img/2023-09-19_102704.png)
-
-------
-
-#### 4.7 
-
-Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
-
-![az(8)](./arduino_img/az(8).jpg)
-
-------
-
-#### 4.8 
-
-Use screws and nuts to fix the Acrylic Board B and C. 
-
-![2023-09-18_175053](./arduino_img/2023-09-18_175053.png)
-
-![2023-09-19_103551](./arduino_img/2023-09-19_103551.png)
-
-![2023-09-19_104157](./arduino_img/2023-09-19_104157.png)
-
-Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
-
-![az(9)](./arduino_img/az(9).jpg)
-
-![az(6)](./arduino_img/az(6)-1695091470175-14.jpg)
-
-------
-
-
-
-### Step 5
-
-------
-
-#### 5.1 **Required Components**
-
-![su3](./arduino_img/su3.png)
-
-------
-
-#### 5.2
-
-![2023-09-19_104844](./arduino_img/2023-09-19_104844.png)
-
-![2023-09-19_105343](./arduino_img/2023-09-19_105343.png)
-
-Moung the Acrylic Board D. 
-
-![az(10)](./arduino_img/az(10).jpg)
-
-------
-
-#### 5.3
-
-![2023-09-18_175053](./arduino_img/2023-09-18_175053.png)
-
-------
-
-#### 5.4
-
-![2023-09-19_110822](./arduino_img/2023-09-19_110822.png)
-
-![2023-09-19_111127](./arduino_img/2023-09-19_111127.png)
-
-------
-
-#### 5.5 
-
-Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
-
-![az(11)](./arduino_img/az(11).jpg)
-
-------
-
-#### 5.6 
-
-Use screws and nuts to fix the Acrylic Board C and D. 
-
-![2023-09-18_175053](./arduino_img/2023-09-18_175053.png)
-
-![2023-09-19_111714](./arduino_img/2023-09-19_111714.png)
-
-![2023-09-19_112010](./arduino_img/2023-09-19_112010.png)
-
-------
-
-#### 5.7
-
-![az(13)](./arduino_img/az(13).jpg)
-
-![az(17)](./arduino_img/az(17).jpg)
-
-------
-### Step 6
-
-#### 6.1 Required Components
-
-![su2](./arduino_img/su2.png)
-
-------
-
-#### 6.2
-
-![2023-09-19_113914](./arduino_img/2023-09-19_113914.png)
-
-![2023-09-19_114348](./arduino_img/2023-09-19_114348.png)
-
-编号A的亚克力对其，底部亚克力板的编号A
-
-![az(14)](./arduino_img/az(14).jpg)
-
-------
-
-#### 6.3
-
-![2023-09-18_175053](./arduino_img/2023-09-18_175053.png)
-
-------
-
-#### 6.4 
-
-Use screws and nuts to fix the Acrylic Board A and B. 
-
-![2023-09-19_114858](./arduino_img/2023-09-19_114858.png)
-
-![2023-09-19_115139](./arduino_img/2023-09-19_115139.png)
-
-![az(15)](./arduino_img/az(15).jpg)
-
-------
-
-#### 6.5 
-
-Use screws and nuts to fix the Acrylic Board A and D.
-
-![2023-09-19_115655](./arduino_img/2023-09-19_115655.png)
-
-![2023-09-19_120052](./arduino_img/2023-09-19_120052.png)
-
-------
-
-#### 6.6
-
-![az(1)](./arduino_img/az(1).jpg)
-
-------
-
-### Step 7
-
-#### 7.1 Required Components
-
-![su1](./arduino_img/su1.png)
-
-------
-
-#### 7.2 
-
-Please align the holes for screws when installing. 
-
-![2023-09-19_131904](./arduino_img/2023-09-19_131904.png)
-
-![az(2)](./arduino_img/az(2).jpg)
-
-
-
-------
-
-#### 7.3
-
-![2023-09-19_132733](./arduino_img/2023-09-19_132733.png)
-
-![az(3)](./arduino_img/az(3).jpg)
-
-------
-
-#### 7.4
-
-![2023-09-18_175053](./arduino_img/2023-09-18_175053.png)
-
-------
-
-#### 7.5
-
-![2023-09-19_133519](./arduino_img/2023-09-19_133519.png)
-
-![2023-09-19_133753](./arduino_img/2023-09-19_133753.png)
-
-------
-
-#### 7.6
-
-![az(4)](./arduino_img/az(4).jpg)
-
-![az(5)](./arduino_img/az(5).jpg)
-
-------
-
-###  Completed!
-
-![anz2](./arduino_img/anz2.jpg)
-
-------
-
-------
-
-
-
-## 3.Projects
-
-### 3.1. Startup: An Adventure in The World of Light
+### 2.1. Startup: An Adventure in The World of Light
 
 
 
@@ -456,7 +100,7 @@ Let’s keep going!
 
 ------
 
-### 3.2.Shining Journey: A Unique Cube
+### 2.2.Shining Journey: A Unique Cube
 
 
 
@@ -938,7 +582,7 @@ A: The master RGB Cube is used to control the lights. Please clear their codes i
 
 -----------------------------
 
-### 3.3.Magical Fingertip: Button And Light
+### 2.3.Magical Fingertip: Button And Light
 
 
 
@@ -989,7 +633,7 @@ Hold your RGB CUBE and look for the expansion interface at its bottom. Connect t
 
 **NOTE: S(Signal) is in yellow, V(Voltage) is in red, GND is in black. When wiring, please pay attention to the color and do not reverse!**
 
-![Untitled Sketch_bb1](./arduino_img/Untitled Sketch_bb1.png)
+![UntitledSketch_bb1](./arduino_img/UntitledSketch_bb1.png)
 
 ------
 
@@ -1330,7 +974,7 @@ A:
 
 ------
 
-### 3.4.Symphony of Colors: Innovation in Art of Light
+### 2.4.Symphony of Colors: Innovation in Art of Light
 
 ------
 
@@ -1567,7 +1211,7 @@ void loop(void) {
 
 ------
 
-### 3.5.Glamour of Rotation: Potentiometer Plus Cube
+### 2.5.Glamour of Rotation: Potentiometer Plus Cube
 
 In this project,  a potentiometer is extended to the cube to control the RGB LED. 
 
@@ -1737,8 +1381,7 @@ In this experiment, a potentiometer is extended to the cube to control the RGB L
 
 ---------------
 
-
-### 3.6.Ambient Resonance: The Wisdom of Light
+### 2.6.Ambient Resonance: The Wisdom of Light
 
 In this project, a photoresistor is integrated with the cube to change the light effects according to the ambient light.
 
@@ -1943,8 +1586,7 @@ In this project, a photoresistor is integrated with the cube to change the light
 
 -------------
 
-
-### 3.7.Rhythm of Sound: Voice Control
+### 2.7.Rhythm of Sound: Voice Control
 
 In this project, a sound sensor is integrated with the cube to control the light by voice. 
 
@@ -2178,8 +1820,7 @@ In this project, a sound sensor is integrated with the cube to control the light
 
 ------------
 
-
-### 3.8.Light Creation: Freaking Awesome Light Effects
+### 2.8.Light Creation: Freaking Awesome Light Effects
 
 #### Heartbeat
 
@@ -3437,7 +3078,7 @@ void RandomColours(int i){
 
 
 
-## 4.FAQ
+## 3.FAQ
 
 ### Q: Is only USB interface for powering RGB CUBE USB? 
 
