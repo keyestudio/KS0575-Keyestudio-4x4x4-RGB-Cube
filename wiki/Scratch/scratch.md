@@ -1120,7 +1120,7 @@ We input random numbers to make some unexpected and interesting light effects.
 
 ![4.4RGBCUBE_Random2-1695260804056](./scratch_img/4.4RGBCUBE_Random2-1695260804056.png)
 
-### 3.5.Glamour of Rotation: Potentiometer Plus Cube
+### 2.5.Glamour of Rotation: Potentiometer Plus Cube
 
 In this project,  a potentiometer is extended to the cube to control the RGB LED. 
 
@@ -1230,7 +1230,7 @@ In this experiment, a potentiometer is extended to the cube to control the RGB L
 
 
 
-### 3.6.Ambient Resonance: The Wisdom of Light
+### 2.6.Ambient Resonance: The Wisdom of Light
 
 In this project, a photoresistor is integrated with the cube to change the light effects according to the ambient light.
 
@@ -1376,7 +1376,7 @@ In this project, a photoresistor is integrated with the cube to change the light
 
 -------------
 
-### 3.7.Rhythm of Sound: Voice Control
+### 2.7.Rhythm of Sound: Voice Control
 
 In this project, a sound sensor is integrated with the cube to control the light by voice. 
 
@@ -1486,7 +1486,7 @@ In this project, a sound sensor is integrated with the cube to control the light
 
 
 
-### 3.8.Light Creation: Freaking Awesome Light Effects
+### 2.8.Light Creation: Freaking Awesome Light Effects
 
 
 
@@ -1590,7 +1590,7 @@ Code:
 
 
 
-## 4.FAQ
+## 3.FAQ
 
 ### Q: Is only USB interface for powering RGB CUBE USB?
 
