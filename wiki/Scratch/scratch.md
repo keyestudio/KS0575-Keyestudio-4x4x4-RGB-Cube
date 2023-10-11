@@ -2,7 +2,7 @@
 
 ## 1.Software Installation
 
-Reference: https://kidsblocks.readthedocs.io/
+Reference:[ https://kidsblocks.readthedocs.io/](https://kidsblocks.readthedocs.io/)
 
 ### **Windows System**
 
