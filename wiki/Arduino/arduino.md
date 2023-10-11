@@ -2,7 +2,7 @@
 
 ## 1.Software Installation
 
-Please refer to: [ https://kidsblocks.readthedocs.io/](https://kidsblocks.readthedocs.io/)
+Please refer to: [https://arduinoide.readthedocs.io](https://arduinoide.readthedocs.io)
 
 ------
 
