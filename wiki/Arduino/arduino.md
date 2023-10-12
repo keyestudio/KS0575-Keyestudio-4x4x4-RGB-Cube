@@ -2,7 +2,31 @@
 
 ## 1.Software Installation
 
-Please refer to: [https://arduinoide.readthedocs.io](https://arduinoide.readthedocs.io)
+Please refer to: https://arduinoide.readthedocs.io
+
+------
+
+Manually Install Drivers on Windows:https://docs.arduino.cc/tutorials/generic/DriverInstallation
+
+The following instructions are for Windows 7, Vista and 10. They are  valid also for Windows XP, with small differences in the dialog windows. In the following instruction only the Leonardo board will be mentioned, but the same procedure is valid for all the Arduino boards.
+
+Plug  in your board and wait for Windows to begin its driver installation  process. If the installer does not launch automatically, navigate to the Windows Device Manager (Start>Control Panel>Hardware) and find  the Arduino Leonardo listing. Right click and choose **Update driver**.
+
+![LeonardoWindowsDrivers0](./arduino_img/LeonardoWindowsDrivers0.png)
+
+At the next screen, choose "Browse my computer for driver software", and click **Next**.
+
+![LeonardoWindowsDrivers1](./arduino_img/LeonardoWindowsDrivers1.png)
+
+Click the **Browse...** button. Another dialog appears: navigate to the folder with the Arduino software that you just downloaded. Select the **drivers** folder an click **OK**, then click **Next**.
+
+![LeonardoWindowsDrivers2](./arduino_img/LeonardoWindowsDrivers2.png)
+
+You will receive a notification that the board has not passed Windows Logo testing. Click on the button **Continue Anyway**.
+
+![LeonardoWindowsDrivers3](./arduino_img/LeonardoWindowsDrivers3.png)
+
+After a few moments, a window will tell you the wizard has finished installing software for Arduino Leonardo. Press the **Close** button.
 
 ------
 
