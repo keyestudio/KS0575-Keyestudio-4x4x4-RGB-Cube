@@ -2,11 +2,11 @@
 
 ## 1.Software Installation
 
-Please refer to: https://arduinoide.readthedocs.io
+Please refer to: [https://arduinoide.readthedocs.io](https://arduinoide.readthedocs.io)
 
 ------
 
-Manually Install Drivers on Windows:https://docs.arduino.cc/tutorials/generic/DriverInstallation
+Manually Install Drivers on Windows:[https://docs.arduino.cc/tutorials/generic/DriverInstallation](https://docs.arduino.cc/tutorials/generic/DriverInstallation)
 
 The following instructions are for Windows 7, Vista and 10. They are  valid also for Windows XP, with small differences in the dialog windows. In the following instruction only the Leonardo board will be mentioned, but the same procedure is valid for all the Arduino boards.
 
@@ -241,7 +241,7 @@ On the basis the previous theory, data will be sent according to the register in
 
   ![img](./arduino_img/new(26).png)
 
-- Select and click the library file(zip. format) you need to add as library. Download link：https://fs.keyestudio.com/KS0575
+- Select and click the library file(zip. format) you need to add as library. Download link：[https://fs.keyestudio.com/KS0575](https://fs.keyestudio.com/KS0575)
 
   ![2023-10-08_154444](./arduino_img/2023-10-08_154444.png)
 
@@ -1022,7 +1022,7 @@ To fade an LED, we control the gradual change of LED brightness through the PWM 
 
 Pulse  Width Modulation, or PWM, is a technique for getting analog results with digital means. Digital control is used to create a square wave, a  signal switched between on and off. This on-off pattern can simulate  voltages in between the full VCC of the board (e.g., 5 V on UNO, 3.3 V  on a MKR board) and off (0 Volts) by changing the portion of the time  the signal spends on versus the time that the signal spends off. The duration of "on time" is called the pulse width. To get varying analog  values, you change, or modulate, that pulse width. If you repeat this  on-off pattern fast enough with an LED for example, the result is as if  the signal is a steady voltage between 0 and VCC controlling the  brightness of the LED.
 
-Official Website: https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM
+Official Website: [https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM](https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM)
 
 ![2023-08-17_193905](./arduino_img/2023-08-17_193905.png)
 

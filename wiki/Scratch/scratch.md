@@ -2,7 +2,7 @@
 
 ## 1.Software Installation
 
-Reference: https://kidsblocks.readthedocs.io/
+Reference: [https://kidsblocks.readthedocs.io/](https://kidsblocks.readthedocs.io/)
 
 ### **Windows System**
 
@@ -1039,7 +1039,7 @@ To fade an LED, we control the gradual change of LED brightness through the PWM 
 
 Pulse  Width Modulation, or PWM, is a technique for getting analog results with digital means. Digital control is used to create a square wave, a  signal switched between on and off. This on-off pattern can simulate  voltages in between the full VCC of the board (e.g., 5 V on UNO, 3.3 V  on a MKR board) and off (0 Volts) by changing the portion of the time  the signal spends on versus the time that the signal spends off. The duration of "on time" is called the pulse width. To get varying analog  values, you change, or modulate, that pulse width. If you repeat this  on-off pattern fast enough with an LED for example, the result is as if  the signal is a steady voltage between 0 and VCC controlling the  brightness of the LED.
 
-Official Website: https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM
+Official Website: [https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM](https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM)
 
 ![2023-08-17_193905](./scratch_img/2023-08-17_193905.png)
 
