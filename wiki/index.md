@@ -77,7 +77,7 @@ The Keyestudio trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. 
 
 
 
-## **2.Description**
+## 2.Description
 
 - RGB Cube Kit integrates Arduino programming and multiple sensing technology. This ulra-cool 4x4x4 RGB cube may boosts your inspiration to create various types of light shows. 
 - With multiple sensors and modules, like button module, photoresistor, potentiometer and sound sensor, users can learn deeper about the control principle of this RGB Cube, enabling you to design unique light shows. Despite practicing, this product offers an intriguing platform which allows you to design an intellectual lighting system and cultivates the ability to technological innovation and programming. 
@@ -90,7 +90,7 @@ The Keyestudio trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. 
 
 
 
-## **3.Features**
+## 3.Features
 
 1. **INTEGRATION**: The kit includes 4x4x4 RGB CUBE and some sensors and modules, like button module, photoresistor, potentiometer and sound sensor, making them convenient for you to control RGB CUBE lighting. 
 2. **PRACTICALITY**: In experiments, you can understand deeper how each sensor works and how data is acquired and processed, thus you are bale to build a lighting system by this RGB CUBE.
@@ -104,7 +104,7 @@ The Keyestudio trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. 
 
 
 
-## **4.Parameters**
+## 4.Parameters
 
 - Working voltage: 5V
 
@@ -112,7 +112,7 @@ The Keyestudio trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. 
 
 - Maximum power consumption: ≤2.5W
 
-- Dimensions: 118\*133*108(mm)
+- Dimensions: 118*133*108(mm)
 
 - Working temperature: –10°C ~ +65°C
 
@@ -144,14 +144,14 @@ Arduino Official
 
 ------
 
-### Step 1
+ Step 1
 
-#### 1.1 Required Components
+ 1.1 Required Components
 
 ![su7](./index_img/su7.png)
 
 ------
-#### 1.2 
+ 1.2 
 
 There are four holes on the main control board for connecting M3 screws and copper pillars. 
 
@@ -160,21 +160,21 @@ There are four holes on the main control board for connecting M3 screws and copp
 ![2-1](./index_img/2-1.jpg)
 
 ------
-#### 1.3
+ 1.3
 
 ![img](./index_img/2.png)
 
 ![3](./index_img/3.png)
 
 ------
-### Step 2
+ Step 2
 
-#### 2.1 Required Components
+ 2.1 Required Components
 
 ![su6](./index_img/su6.png)
 
 ------
-#### 2.2 
+ 2.2 
 
 Please pay attention to the direction of the acrylic board. Align the arrowhead to the USB side, as follows: 
 
@@ -188,7 +188,7 @@ Fix the board with four M3 screws.
 
 ------
 
-#### 2.3
+ 2.3
 
 ![7](./index_img/7.png)
 
@@ -198,17 +198,17 @@ Fix the board with four M3 screws.
 
 
 
-### Step 3
+ Step 3
 
 ------
 
-#### 3.1 **Required Components**
+ 3.1 **Required Components**
 
 ![su5](./index_img/su5.png)
 
 ------
 
-#### 3.2 
+ 3.2 
 
 Plug the little bumps into the square holes on Acrylic Board B: 
 
@@ -218,19 +218,19 @@ Plug the little bumps into the square holes on Acrylic Board B:
 
 ------
 
-#### 3.3
+ 3.3
 
 ![2023-09-18_175053](./index_img/2023-09-18_175053.png)
 
 ------
 
-#### 3.4
+ 3.4
 
 ![2023-09-19_082336](./index_img/2023-09-19_082336.png)
 
 ------
 
-#### 3.5 
+ 3.5 
 
 Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
 
@@ -238,28 +238,28 @@ Hold the screw and tighten it with the screwdriver. Note that do not tighten it 
 
 ------
 
-#### 3.6
+ 3.6
 
 ![2023-09-19_083607](./index_img/2023-09-19_083607.png)
 
 ![anz1](./index_img/anz1.jpg)
 
 ------
-### Step 4
+ Step 4
 
-#### 4.1 Required Components
+ 4.1 Required Components
 
 ![su4](./index_img/su4.png)
 
 ------
 
-#### 4.2
+ 4.2
 
 ![2023-09-19_100940](./index_img/2023-09-19_100940.png)
 
 ------
 
-#### 4.3
+ 4.3
 
 ![2023-09-19_101351](./index_img/2023-09-19_101351.png)
 
@@ -271,25 +271,25 @@ Mount the Acrylic Board C:
 
 ------
 
-#### 4.4
+ 4.4
 
 ![2023-09-18_175053](./index_img/2023-09-18_175053.png)
 
 ------
 
-#### 4.5
+ 4.5
 
 ![2023-09-19_102336](./index_img/2023-09-19_102336.png)
 
 ------
 
-#### 4.6
+ 4.6
 
 ![2023-09-19_102704](./index_img/2023-09-19_102704.png)
 
 ------
 
-#### 4.7 
+ 4.7 
 
 Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
 
@@ -297,7 +297,7 @@ Hold the screw and tighten it with the screwdriver. Note that do not tighten it 
 
 ------
 
-#### 4.8 
+ 4.8 
 
 Use screws and nuts to fix the Acrylic Board B and C. 
 
@@ -317,17 +317,17 @@ Hold the screw and tighten it with the screwdriver. Note that do not tighten it 
 
 
 
-### Step 5
+ Step 5
 
 ------
 
-#### 5.1 **Required Components**
+ 5.1 **Required Components**
 
 ![su3](./index_img/su3.png)
 
 ------
 
-#### 5.2
+ 5.2
 
 ![2023-09-19_104844](./index_img/2023-09-19_104844.png)
 
@@ -339,13 +339,13 @@ Moung the Acrylic Board D.
 
 ------
 
-#### 5.3
+ 5.3
 
 ![2023-09-18_175053](./index_img/2023-09-18_175053.png)
 
 ------
 
-#### 5.4
+ 5.4
 
 ![2023-09-19_110822](./index_img/2023-09-19_110822.png)
 
@@ -353,7 +353,7 @@ Moung the Acrylic Board D.
 
 ------
 
-#### 5.5 
+ 5.5 
 
 Hold the screw and tighten it with the screwdriver. Note that do not tighten it too much. 
 
@@ -361,7 +361,7 @@ Hold the screw and tighten it with the screwdriver. Note that do not tighten it 
 
 ------
 
-#### 5.6 
+ 5.6 
 
 Use screws and nuts to fix the Acrylic Board C and D. 
 
@@ -373,22 +373,22 @@ Use screws and nuts to fix the Acrylic Board C and D.
 
 ------
 
-#### 5.7
+ 5.7
 
 ![az(13)](./index_img/az(13).jpg)
 
 ![az(17)](./index_img/az(17).jpg)
 
 ------
-### Step 6
+ Step 6
 
-#### 6.1 Required Components
+ 6.1 Required Components
 
 ![su2](./index_img/su2.png)
 
 ------
 
-#### 6.2
+ 6.2
 
 ![2023-09-19_113914](./index_img/2023-09-19_113914.png)
 
@@ -400,13 +400,13 @@ Use screws and nuts to fix the Acrylic Board C and D.
 
 ------
 
-#### 6.3
+ 6.3
 
 ![2023-09-18_175053](./index_img/2023-09-18_175053.png)
 
 ------
 
-#### 6.4 
+ 6.4 
 
 Use screws and nuts to fix the Acrylic Board A and B. 
 
@@ -418,7 +418,7 @@ Use screws and nuts to fix the Acrylic Board A and B.
 
 ------
 
-#### 6.5 
+ 6.5 
 
 Use screws and nuts to fix the Acrylic Board A and D.
 
@@ -428,21 +428,21 @@ Use screws and nuts to fix the Acrylic Board A and D.
 
 ------
 
-#### 6.6
+ 6.6
 
 ![az(1)](./index_img/az(1).jpg)
 
 ------
 
-### Step 7
+ Step 7
 
-#### 7.1 Required Components
+ 7.1 Required Components
 
 ![su1](./index_img/su1.png)
 
 ------
 
-#### 7.2 
+ 7.2 
 
 Please align the holes for screws when installing. 
 
@@ -454,7 +454,7 @@ Please align the holes for screws when installing.
 
 ------
 
-#### 7.3
+ 7.3
 
 ![2023-09-19_132733](./index_img/2023-09-19_132733.png)
 
@@ -462,13 +462,13 @@ Please align the holes for screws when installing.
 
 ------
 
-#### 7.4
+ 7.4
 
 ![2023-09-18_175053](./index_img/2023-09-18_175053.png)
 
 ------
 
-#### 7.5
+ 7.5
 
 ![2023-09-19_133519](./index_img/2023-09-19_133519.png)
 
@@ -476,7 +476,7 @@ Please align the holes for screws when installing.
 
 ------
 
-#### 7.6
+ 7.6
 
 ![az(4)](./index_img/az(4).jpg)
 
@@ -484,7 +484,7 @@ Please align the holes for screws when installing.
 
 ------
 
-###  Completed!
+  Completed!
 
 ![anz2](./index_img/anz2.jpg)
 
