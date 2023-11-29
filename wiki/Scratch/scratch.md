@@ -4,7 +4,7 @@
 
 Reference: [https://kidsblocks.readthedocs.io/](https://kidsblocks.readthedocs.io/)
 
-### **Windows System**
+### Windows System
 
 1. How to Download:
 
